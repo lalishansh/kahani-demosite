@@ -29,6 +29,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Serving/Development settings
+detach: false
+livereload: true
+port: 4001
+
 # Build settings
 remote_theme: lalishansh/kahani
 plugins:
