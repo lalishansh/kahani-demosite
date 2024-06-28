@@ -35,7 +35,7 @@ livereload: true
 port: 4001
 
 # Build settings
-remote_theme: lalishansh/kahani
+remote_theme: lalishansh/kahani@test
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
